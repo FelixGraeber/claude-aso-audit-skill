@@ -113,7 +113,7 @@ The audit produces a weighted ASO Health Score:
 
 - Python 3.12+
 - A skill-compatible agent runtime. The install scripts default to `~/.claude`, but you can override the install locations with `SKILLS_HOME`, `AGENTS_HOME`, and `ASO_ENV_FILE`.
-- Optional: Playwright for visual analysis
+- Optional: Playwright and Pillow for visual analysis
 
 ## License
 
